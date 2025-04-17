@@ -39,12 +39,15 @@ A versatile Frontend Engineer specializing in responsive, performant, and scalab
 ---
 ## 📊 GitHub Stats
  
+<div align="center">
 
 <!-- Streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitsharma2748&theme=react-dark&hide_border=true)
 
 <!-- Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitsharma2748&theme=react-dark)
+
+</div>
 
 
 ---
