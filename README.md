@@ -12,7 +12,7 @@ A versatile Frontend Engineer specializing in responsive, performant, and scalab
 
 ## 📂 Portfolio
 
-Check out my portfolio: [amitsharma.dev](https://amitsharma.dev)
+Check out my portfolio: [amitsharma.dev](https://amitsharma2748.github.io/)
 
 ---
 
