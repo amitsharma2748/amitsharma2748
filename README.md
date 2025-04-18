@@ -10,6 +10,12 @@ A versatile Frontend Engineer specializing in responsive, performant, and scalab
 
 ---
 
+## 📂 Portfolio
+
+Check out my portfolio: [amitsharma.dev](https://amitsharma.dev)
+
+---
+
 ![Profile views](https://komarev.com/ghpvc/?username=amitsharma2748&style=flat-square)
 
 ## 🚀 About Me
@@ -41,16 +47,14 @@ A versatile Frontend Engineer specializing in responsive, performant, and scalab
 ## 📊 GitHub Stats
 
 <div align="center">
- 
+  <!-- Streak stats -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitsharma2748&theme=react-dark&hide_border=true)
 
-<!-- Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitsharma2748&theme=react-dark&hide_border=true)
-
-<!-- Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitsharma2748&theme=react-dark)
-
+  <!-- Trophies -->
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitsharma2748&theme=react-dark)
 </div>
 
 ---
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
