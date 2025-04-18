@@ -46,13 +46,12 @@ Check out my portfolio: [amitsharma.dev](https://amitsharma2748.github.io/)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Streak stats -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amitsharma2748&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amitsharma2748&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amitsharma2748&theme=react-dark" alt="GitHub Trophies" />
+</p>
 
-  <!-- Trophies -->
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitsharma2748&theme=react-dark)
-</div>
 
 ---
 
